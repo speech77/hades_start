@@ -57,13 +57,13 @@ From planet shipments overview, you can now sort shipments by name and get shipm
 - LOAD all shipments without `*` (not drone deliverable)
 - bring shipments without `*` to the big planet close to the `yellow circle` (image above)
 - look for a Transport ship with modules active (Offload (`Scarico`) and 2x Trade bonuses)
-- offload all shipments without `*` to the `yellow circle` Trade station (`Stazione di scambio`)
+- offload all shipments without `*` to the closest Trade station (`Stazione di scambio`)
 - use just one Transport ship to offload all shipments to the Trade station (`Stazione di scambio`)
 - turn on Time modulator (`Modulatore temporale`) to speed up travelling
 
 ### In this way you can have:
 - drone bonus on `*` shipments
-- trade bonuses on NO `*` shipments
+- trade bonuses on no `*` shipments
 - all planets empty of shipments
 - low hydrogen consumption
 - low time to get a full shipment round
