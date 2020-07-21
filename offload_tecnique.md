@@ -55,12 +55,13 @@ From planet shipments overview, you can now sort shipments by name and get shipm
 - bring the shipments on planets that are connected by the Warp lane hub (`Hub corsia warp`)
 - DROP there shipments whit `*` (let the Shipment drone (`Drone da carico`) make deliveries for you)
 - LOAD all shipments without `*` (not drone deliverable)
-- bring shipments without `*` to the big planet close to the `red start yellow circled` (image above)
+- bring shipments without `*` to the big planet close to the `yellow circle` (image above)
 - look for a Transport ship with modules active (Offload (`Scarico`) and 2x Trade bonuses)
-- shuttle and offload all shipments without `*` to the `yellow circled` Trade station (`Stazione di scambio`) WITH just one Transport ship
-- turn on Time modulator to speed up travelling
+- offload all shipments without `*` to the `yellow circle` Trade station (`Stazione di scambio`)
+- use just one Transport ship to offload all shipments to the Trade station (`Stazione di scambio`)
+- turn on Time modulator (`Modulatore temporale`) to speed up travelling
 
-In this way you can have:
+### In this way you can have:
 - drone bonus on `*` shipments
 - trade bonuses on NO `*` shipments
 - all planets empty of shipments
