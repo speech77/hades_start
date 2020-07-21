@@ -29,15 +29,15 @@
 
 
 # Star setup
-The target is to set up warp lanes to consume hydrogen as low as possible.  
+The target is to right set up Warp lane hub (`Hub corsia warp`) to consume hydrogen as low as possible.  
 Also you should have 1 Trade station (`Stazione di scambio`) as close as possible to a big planet (40 shipments at least).
 
 ![](images/836C3536_2.PNG)
 
 **Legenda**
-- red lines: optimized Warp lanes
+- red lines: optimized Warp lane hub (`Hub corsia warp`)
 - red stars: Trade station (`Stazione di scambio`)
-- red start yellow circled: the Trade station (`Stazione di scambio`) where to offload shipments to 
+- yellow circle: the Trade station (`Stazione di scambio`) where to offload shipments to 
 
 
 
@@ -45,19 +45,19 @@ Also you should have 1 Trade station (`Stazione di scambio`) as close as possibl
 
 ## Rename all planets connected by warp lanes
 - rename all planets connected by the Warp lane hub (`Hub corsia warp`), placing an `*` in the beginning (ex: `*Julmar`)  
-- now you would see an `*` on all shipments for those planets too
+- now you will see an `*` on all shipments for those planets
 
-From planet shipments overview, you can now sort shipments by name and get on top (or bottom) shipments with `*`. 
+From planet shipments overview, you can now sort shipments by name and get shipments with `*` on top (or bottom). 
 
 ## Send one Transport on each zone
-- send one Transport (or two) on each zone OUTSIDE the Warp lane hub (`Hub corsia warp`)
+- send one Transport (or two) on each OUTSIDE zone the Warp lane hub (`Hub corsia warp`)
 - load ALL the shipments from those planets
-- bring them on planets into the Warp lane hub (`Hub corsia warp`)
+- bring the shipments on planets that are connected by the Warp lane hub (`Hub corsia warp`)
 - DROP there shipments whit `*` (let the Shipment drone (`Drone da carico`) make deliveries for you)
-- LOAD all shipments with NO `*` (not drone deliverable)
-- bring shipments with NO `*` to the big planet close to the `red start yellow circled` (image above)
+- LOAD all shipments without `*` (not drone deliverable)
+- bring shipments without `*` to the big planet close to the `red start yellow circled` (image above)
 - look for a Transport ship with modules active (Offload (`Scarico`) and 2x Trade bonuses)
-- shuttle and offload all shipments with NO `*` to the `yellow circled` Trade station (`Stazione di scambio`) WITH just one Transport ship
+- shuttle and offload all shipments without `*` to the `yellow circled` Trade station (`Stazione di scambio`) WITH just one Transport ship
 - turn on Time modulator to speed up travelling
 
 In this way you can have:
